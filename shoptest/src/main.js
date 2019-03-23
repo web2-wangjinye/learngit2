@@ -15,4 +15,4 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
-111
+11122222
